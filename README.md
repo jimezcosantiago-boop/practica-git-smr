@@ -19,7 +19,6 @@ Durante el laboratorio de SMR, hemos utilizado los siguientes comandos fundament
 * **Git fetch:** Permite consultar si hay cambios en el repositorio remoto sin descargarlos todavía al directorio de trabajo.
 * **Git merge:** Se utiliza para unir los cambios de diferentes versiones o ramas de un proyecto.
 
-![Captura de mis comandos](imagenes/mis_comandos.png)
 
 ##  Gestión de Conflictos
 ### ¿Qué es un conflicto y qué lo causa?
